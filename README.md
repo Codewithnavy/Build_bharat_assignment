@@ -1,7 +1,3 @@
-Based on your MGNREGA project repository, here's a short and objective README:
-
-***
-
 # MGNREGA District Performance Dashboard
 
 A production-ready web application enabling rural citizens to track MGNREGA district performance across Uttar Pradesh without technical expertise.
@@ -9,8 +5,6 @@ A production-ready web application enabling rural citizens to track MGNREGA dist
 ## About
 
 Built for the Build for Bharat assignment, this platform makes government MGNREGA data accessible to low-literacy rural populations through a visual-first, mobile-optimized interface.
-
-**Live Demo:** [build-bharat-assignment.vercel.app](https://build-bharat-assignment.vercel.app)
 
 ## Key Features
 
